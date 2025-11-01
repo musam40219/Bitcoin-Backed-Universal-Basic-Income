@@ -24,6 +24,10 @@ path = 'contracts/emergency-relief.clar'
 clarity_version = 3
 epoch = 3.1
 
+[contracts.contribution-ledger]
+path = 'contracts/contribution-ledger.clar'
+clarity_version = 3
+epoch = 3.1
 [repl.analysis]
 passes = ['check_checker']
 
